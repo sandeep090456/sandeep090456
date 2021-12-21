@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeep090456
+- 👋 Hi, I’m Sandeep P S
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
